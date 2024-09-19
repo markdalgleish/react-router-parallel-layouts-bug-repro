@@ -1,7 +1,7 @@
 # react-router-parallel-layouts-bug-repro
 
 ```
-cd react-router-parallel-layouts
+cd react-router-repro
 npm i
 npm run dev
 ```
@@ -14,7 +14,7 @@ npm run dev
 For comparison, you can see the same app working in Remix:
 
 ```
-cd remix-parallel-layouts
+cd remix-repro
 npm i
 npm run dev
 ```
