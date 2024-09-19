@@ -19,7 +19,4 @@ npm i
 npm run dev
 ```
 
-1. Navigate to "Hello"
-2. Refresh page
-3. Navigate to "World"
-4. It works
+Then follow the same steps as above.
